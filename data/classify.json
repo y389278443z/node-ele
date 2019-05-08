@@ -1,0 +1,104 @@
+[
+  {
+    "image_url": "classify1.jpg",
+    "id": 1,
+    "is_in_serving": true,
+    "title": "美食"
+  },
+  {
+    "image_url": "classify2.jpg",
+    "id": 2,
+    "is_in_serving": true,
+    "title": "商超便利"
+  },
+  {
+    "image_url": "classify3.jpg",
+    "id": 3,
+    "is_in_serving": true,
+    "title": "水果"
+  },
+  {
+    "image_url": "classify4.jpg",
+    "id": 4,
+    "is_in_serving": true,
+    "title": "医药健康"
+  },
+  {
+    "image_url": "classify5.jpg",
+    "id": 5,
+    "is_in_serving": true,
+    "title": "浪漫鲜花"
+  },
+  {
+    "image_url": "classify6.jpg",
+    "id": 6,
+    "is_in_serving": true,
+    "title": "跑腿代购"
+  },
+  {
+    "image_url": "classify7.jpg",
+    "id": 7,
+    "is_in_serving": true,
+    "title": "汉堡披萨"
+  },
+  {
+    "image_url": "classify8.jpg",
+    "id": 8,
+    "is_in_serving": true,
+    "title": "厨房生鲜"
+  },
+  {
+    "image_url": "classify9.jpg",
+    "id": 9,
+    "is_in_serving": true,
+    "title": "炸鸡炸串"
+  },
+  {
+    "image_url": "classify10.jpg",
+    "id": 10,
+    "is_in_serving": true,
+    "title": "地方菜系"
+  },
+  {
+    "image_url": "classify11.jpg",
+    "id": 11,
+    "is_in_serving": true,
+    "title": "麻辣烫"
+  },
+  {
+    "image_url": "classify12.jpg",
+    "id": 12,
+    "is_in_serving": true,
+    "title": "速食简餐"
+  },
+  {
+    "image_url": "classify13.jpg",
+    "id": 13,
+    "is_in_serving": true,
+    "title": "地方小吃"
+  },
+  {
+    "image_url": "classify14.jpg",
+    "id": 14,
+    "is_in_serving": true,
+    "title": "大牌惠吃"
+  },
+  {
+    "image_url": "classify15.jpg",
+    "id": 15,
+    "is_in_serving": true,
+    "title": "米粉面馆"
+  },
+  {
+    "image_url": "classify16.jpg",
+    "id": 16,
+    "is_in_serving": true,
+    "title": "包子粥店"
+  },
+  {
+    "image_url": "classify17.jpg",
+    "id": 17,
+    "is_in_serving": true,
+    "title": "简易快餐"
+  }
+]

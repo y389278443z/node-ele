@@ -1,0 +1,27 @@
+{
+  "name": "node-vue",
+  "version": "1.0.0",
+  "description": "a express and mongoose project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yz",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/polyfill": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-stage-2": "^7.0.0",
+    "babel-cli": "^6.26.0",
+    "captchapng": "^0.0.1",
+    "connect-mongo": "^2.0.3",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "formidable": "^1.2.1",
+    "gm": "^1.23.1",
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.5.2"
+  }
+}

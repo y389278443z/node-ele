@@ -1,0 +1,131 @@
+[
+  {
+  "count": 100,
+  "image_url": "category1.png",
+  "id": 1,
+  "ids": [7, 9, 11, 12, 15, 16],
+  "name": "快餐便当",
+  "sub_categories": [
+    {
+      "count": 20,
+      "id": 15,
+      "level": 2,
+      "name": "米粉面馆"
+    },
+    {
+      "count": 30,
+      "id": 16,
+      "level": 2,
+      "name": "包子粥店"
+    },
+    {
+      "count": 30,
+      "id": 7,
+      "level": 2,
+      "name": "汉堡披萨"
+    },
+    {
+      "count": 30,
+      "id": 9,
+      "level": 2,
+      "name": "炸鸡炸串"
+    },
+    {
+      "count": 30,
+      "id": 12,
+      "level": 2,
+      "name": "速食简餐"
+    },
+    {
+      "count": 30,
+      "id": 11,
+      "level": 2,
+      "name": "麻辣烫"
+    }
+  ]
+  },
+  {
+    "count": 10,
+    "image_url": "category2.png",
+    "id": 2,
+    "ids": [3, 8],
+    "name": "新鲜果蔬",
+    "sub_categories": [
+      {
+        "count": 4,
+        "id": 3,
+        "level": 2,
+        "name": "新鲜水果"
+      },
+      {
+        "count": 6,
+        "id": 8,
+        "level": 2,
+        "name": "厨房生鲜"
+      }
+    ]
+  },
+  {
+    "count": 88,
+    "image_url": "category3.png",
+    "id": 3,
+    "ids": [10, 13],
+    "name": "特色菜系",
+    "sub_categories": [
+      {
+        "count": 44,
+        "id": 10,
+        "level": 2,
+        "name": "地方菜系"
+      },
+      {
+        "count": 36,
+        "id": 13,
+        "level": 2,
+        "name": "地方小吃"
+      }
+    ]
+  },
+  {
+    "count": 1,
+    "image_url": "category4.png",
+    "id": 4,
+    "ids": [14],
+    "name": "名牌系列",
+    "sub_categories": [
+      {
+        "count": 1,
+        "id": 14,
+        "level": 2,
+        "name": "大牌惠吃"
+      }
+    ]
+  },
+  {
+    "count": 5,
+    "image_url": "category5.png",
+    "id": 5,
+    "ids": [2, 4, 6],
+    "name": "其他种类",
+    "sub_categories": [
+      {
+        "count": 1,
+        "id": 4,
+        "level": 2,
+        "name": "医药健康"
+      },
+      {
+        "count": 4,
+        "id": 2,
+        "level": 2,
+        "name": "商超便利"
+      },
+      {
+        "count": 1,
+        "id": 6,
+        "level": 2,
+        "name": "跑腿代购"
+      }
+    ]
+  }
+]

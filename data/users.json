@@ -1,0 +1,4 @@
+[
+  {"_id":{"$oid":"5cd23c8206a6571f686a3540"},"user_id":"1557281922419","username":"yang","password":"a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3","__v":0},
+  {"_id":{"$oid":"5cd23c9006a6571f686a3542"},"user_id":"1557281936929","username":"yangzhe","password":"a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3","__v":0}
+]

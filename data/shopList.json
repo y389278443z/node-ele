@@ -1,0 +1,1608 @@
+[
+  {
+    "activities": [],
+    "address": "深圳市福田区华强北街道中航路华强北九方购物中心B1层103号商铺",
+    "category": "快餐便当/简餐/美食",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "很好吃的一家餐厅，便宜又实惠",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 5,
+    "float_minimum_order_amount":  20,
+    "id": 1,
+    "identification": {
+      "company_name": "深圳巨好吃餐饮集团有限公司福田分店",
+      "company_address": "深圳市福田区华强北街道中航路华强北九方购物中心B1层103号商铺",
+      "legal_person": "杨伟",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2021-12-20"
+
+    },
+    "image_path":"shop_img1.png",
+    "is_new": "01",
+    "latitude": "23.12497",
+    "longitude": "113.26308",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "巨好吃",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "13523456547",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.4,
+    "rating_count": 569,
+    "recent_order_num": 4483,
+    "status": 1,
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999",
+        "icon_name": "保",
+        "name": "外卖保"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "name": "准时达"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999",
+        "icon_name": "票",
+        "name": "开发票"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市福田区福田街道福田社区贝底田坊119号101",
+    "category": "快餐便当/简餐/美食/地方小吃/速食",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "公告：做“饭”我们是认真的，亲，有任何问题请联系我们处理，差评解决不了任何问题，我们不怕你的追问、质疑，就怕你不问。感谢亲的支持！团餐或投诉电话：123456789",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 0,
+    "float_minimum_order_amount":  10,
+    "id": 2,
+    "identification": {
+      "company_name": "深圳市福田区饭多多餐饮小吃店",
+      "company_address": "深圳市福田区福田街道福田社区贝底田坊119号101",
+      "legal_person": "王金 ",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "预包装食品销售（含冷藏冷冻食品）、热食类食品制售",
+      "licenses_date": "2023-06-28"
+
+    },
+    "image_path":"shop_img2.png",
+    "is_new": "1",
+    "latitude": "22.540083",
+    "longitude": "114.088076",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "饭多多",
+    "opening_hours": ["8:00-23:00"],
+    "phone": "13523456892",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.7,
+    "rating_count": 961,
+    "recent_order_num": 100,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减25，满45减30，满75减44，满120减69",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "满减"
+      },
+      {
+        "description": "特价商品9.9元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "72B43E",
+        "icon_name": "首",
+        "name": "首单"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市福田区华强北街道振中路107栋128号",
+    "category": "快餐/麻辣烫/地方小吃/美食",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "公告：亲爱的宝宝们，红小姐终于来深圳啦~高峰时期请提前下单呦，如用餐遇到任何问题 请联系我们 期待为您服务｡◕ᴗ◕",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 0,
+    "float_minimum_order_amount":  20,
+    "id": 3,
+    "identification": {
+      "company_name": "深圳市福田区福星麻辣烫店",
+      "company_address": "深圳市福田区华强北街道振中路107栋128号",
+      "legal_person": "李进",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售",
+      "licenses_date": "2022-08-24"
+
+    },
+    "image_path":"shop_img3.png",
+    "is_new": "01",
+    "latitude": "22.548996",
+    "longitude": "114.095921",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "洪小姐麻辣烫",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "13547896256",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.7,
+    "rating_count": 300,
+    "recent_order_num": 100,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+      {
+        "description": "满45元赠送撒尿牛丸（2枚）1份",
+        "icon_color": "52C188",
+        "icon_name": "赠",
+        "name": "满赠"
+      },
+      {
+        "description": "特价商品1元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市福田区华强北街道荔村社区振兴路35号华美大厦华美118号",
+    "category": "其他快餐/锅贴/地方小吃/美食/早餐",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "公告：新店开业，大满减只为冲销量，欢迎各位下单品尝。",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 3.5,
+    "float_minimum_order_amount":  25,
+    "id": 4,
+    "identification": {
+      "company_name": "深圳淮南牛肉汤锅贴股份有限公司",
+      "company_address": "深圳市福田区华强北街道荔村社区振兴路35号华美大厦华美118号",
+      "legal_person": "杨伟",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售",
+      "licenses_date": "2023-11-20"
+
+    },
+    "image_path":"shop_img4.png",
+    "is_new": "1",
+    "latitude": "22.756054",
+    "longitude": "113.869957",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "淮南牛肉汤锅贴",
+    "opening_hours": ["00:00-24:00"],
+    "phone": "13645698789",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.6,
+    "rating_count": 1097,
+    "recent_order_num": 11854,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减18，满40减20，满60减26",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "满减"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      },
+      {
+        "description": "特价商品5元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品4折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市福田区福田街道皇岗新村5号之二103号",
+    "category": "馄饨抄手/面食/特色面食/小吃/美食/早餐",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 2,
+    "float_minimum_order_amount":  20,
+    "id": 5,
+    "identification": {
+      "company_name": "深圳市福田区九鲤千里香馄饨店",
+      "company_address": "深圳市福田区福田街道皇岗新村5号之二103号",
+      "legal_person": "黄建",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售",
+      "licenses_date": "2022-03-01"
+
+    },
+    "image_path":"shop_img5.png",
+    "is_new": "01",
+    "latitude": "22.57079",
+    "longitude": "114.057072",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "老上海混沌",
+    "opening_hours": ["10:00-02:00"],
+    "phone": "13456897456",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.7,
+    "rating_count": 58,
+    "recent_order_num": 152,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减3，满45减8，满65减12",
+        "icon_color": "E3666A",
+        "icon_name": "满",
+        "name": "满减"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市福田区福田街道皇岗村吉龙二村65-102号",
+    "category": "其他快餐/螺蛳粉/米粉/地方小吃/美食/早餐",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "柳螺香庆中秋回馈新老顾客，特大优惠活动欢迎新老顾客前来品尝……",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" :2.5,
+    "float_minimum_order_amount":  25,
+    "id": 6,
+    "identification": {
+      "company_name": "深圳市福田区覃祚云螺蛳粉店",
+      "company_address": "深圳市福田区福田街道皇岗村吉龙二村65-102号",
+      "legal_person": "谭云",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2023-01-17"
+
+    },
+    "image_path":"shop_img6.png",
+    "is_new": "1",
+    "latitude": "22.528766",
+    "longitude": "114.066239",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "柳螺香螺蛳粉",
+    "opening_hours": ["00:00-24:00"],
+    "phone": "15465656565",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.5,
+    "rating_count": 1856,
+    "recent_order_num": 5803,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满30减28，满55减30，满75减34，满100减40",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+
+      {
+        "description": "特价商品0.88元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品2折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市福田区沙头街道新洲社区新洲南村65号东座104",
+    "category": "粥店/其他快餐/其他小吃/美食/早餐",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 5,
+    "float_minimum_order_amount":  20,
+    "id": 7,
+    "identification": {
+      "company_name": "深圳满灵餐饮集团有限公司",
+      "company_address": "深圳市福田区沙头街道新洲社区新洲南村65号东座104",
+      "legal_person": "冯晓",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2023-06-06"
+
+    },
+    "image_path":"shop_img7.png",
+    "is_new": "1",
+    "latitude": "22.5287",
+    "longitude": "114.05486",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "曼玲粥店",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "18978456213",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.7,
+    "rating_count": 1699,
+    "recent_order_num": 6101,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+      {
+        "description": "特价商品1元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      },
+      {
+        "description": "满59元赠送小菜一份1份",
+        "icon_color": "52C188",
+        "icon_name": "赠",
+        "name": "满赠"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市福田区梅林街道梅华路上梅林市场34-23号铺",
+    "category": "快餐便当/简餐/地方小吃/美食/特色/地方菜系/早餐",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 1.5,
+    "float_minimum_order_amount":  20,
+    "id": 8,
+    "identification": {
+      "company_name": "深圳市福田区上梅林梅记烧腊美食店",
+      "company_address": "深圳市福田区梅林街道梅华路上梅林市场34-23号铺",
+      "legal_person": "美心",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2022-05-23"
+
+    },
+    "image_path":"shop_img8.png",
+    "is_new": "01",
+    "latitude": "22.57192",
+    "longitude": "114.071597",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "梅记烧腊",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "17645897451",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.7,
+    "rating_count": 200,
+    "recent_order_num": 501,
+    "status": 1,
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市宝安区宝安大道6259号同泰时代广场",
+    "category": "粥类/美食/早餐",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "很好吃的一家餐厅，便宜又实惠",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 3.5,
+    "float_minimum_order_amount":  20,
+    "id": 9,
+    "identification": {
+      "company_name": "深圳三叔粥铺餐饮集团有限公司",
+      "company_address": "深圳市宝安区宝安大道6259号同泰时代广场",
+      "legal_person": "三周",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "粥类，其他",
+      "licenses_date": "2022-12-01"
+
+    },
+    "image_path":"shop_img9.png",
+    "is_new": "01",
+    "latitude": "22.684184",
+    "longitude": "113.811997",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "三叔粥铺",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "15906457896",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.4,
+    "rating_count": 502,
+    "recent_order_num": 1411,
+    "status": 1,
+    "supports": [
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "广东省深圳市宝安区新河三区三巷",
+    "category": "美食/地方菜系/特色/麻辣",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 5,
+    "float_minimum_order_amount":  20,
+    "id": 10,
+    "identification": {
+      "company_name": "深圳蜀湘缘麻辣香锅餐饮集团有限公司",
+      "company_address": "广东省深圳市宝安区新河三区三巷",
+      "legal_person": "杨伟",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2021-12-20"
+
+    },
+    "image_path":"shop_img10.png",
+    "is_new": "1",
+    "latitude": "22.669783",
+    "longitude": "113.813253",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "蜀湘缘麻辣香锅",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "15245789625",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.2,
+    "rating_count": 121,
+    "recent_order_num": 1054,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "广东省深圳市宝安区36区上川路201号",
+    "category": "米粉面馆/速食简餐/美食/早餐",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 0,
+    "float_minimum_order_amount":  20,
+    "id": 11,
+    "identification": {
+      "company_name": "深圳沙拉意面轻食餐饮集团有限公司",
+      "company_address": "广东省深圳市宝安区36区上川路201号",
+      "legal_person": "拉伊",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2021-12-20"
+
+    },
+    "image_path":"shop_img11.png",
+    "is_new": "01",
+    "latitude": "22.585843",
+    "longitude": "113.907294",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "沙拉意面轻食",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "16645792356",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.1,
+    "rating_count": 222,
+    "recent_order_num": 564,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+      {
+        "description": "特价商品1元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "广东省深圳市南山区科技园北区朗山路8号 ",
+    "category": "美食/特色/快餐/鸡肉/炸鸡炸串",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 5,
+    "float_minimum_order_amount":  20,
+    "id": 12,
+    "identification": {
+      "company_name": "深圳头号鸡铺餐饮集团有限公司",
+      "company_address": "广东省深圳市南山区科技园北区朗山路8号 ",
+      "legal_person": "吉普",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2021-12-20"
+
+    },
+    "image_path":"shop_img12.png",
+    "is_new": "1",
+    "latitude": "22.562255",
+    "longitude": "113.957487",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "头号鸡铺",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "13546789546",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.3,
+    "rating_count": 555,
+    "recent_order_num": 1655,
+    "status": 1,
+    "supports": [
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "广东省深圳市南山区深南大道9039-3号",
+    "category": "面食/饺子/特色/地方小吃/美食/早餐",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 5,
+    "float_minimum_order_amount":  20,
+    "id": 13,
+    "identification": {
+      "company_name": "深圳咸骨粥饺子王餐饮集团有限公司",
+      "company_address": "广东省深圳市南山区深南大道9039-3号",
+      "legal_person": "孤舟",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售",
+      "licenses_date": "2021-12-20"
+
+    },
+    "image_path":"shop_img13.png",
+    "is_new": "1",
+    "latitude": "22.541985",
+    "longitude": "113.974787",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "咸骨粥饺子王",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "13656565656",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.7,
+    "rating_count": 961,
+    "recent_order_num": 100,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+      {
+        "description": "特价商品1元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市南山区白石路东8号欢乐海岸曲水湾2栋A区 ",
+    "category": "米粉面馆/粥店/特色/小吃/快餐/简餐/早餐",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 5,
+    "float_minimum_order_amount":  20,
+    "id": 14,
+    "identification": {
+      "company_name": "深圳香香鱼煲餐饮集团有限公司",
+      "company_address": "深圳市南山区白石路东8号欢乐海岸曲水湾2栋A区 ",
+      "legal_person": "玉宝",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2022-02-20"
+
+    },
+    "image_path":"shop_img14.png",
+    "is_new": "1",
+    "latitude": "22.528867",
+    "longitude": "113.998742",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "香香鱼煲",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "13547895458",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.6,
+    "rating_count": 689,
+    "recent_order_num": 3546,
+    "status": 1,
+    "supports": [
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市南山区南山大道3109号(近汇泉广场) ",
+    "category": "快餐便当/简餐/地方特色/美食",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "很好吃的一家餐厅，便宜又实惠",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 5,
+    "float_minimum_order_amount":  20,
+    "id": 15,
+    "identification": {
+      "company_name": "深圳湘大碗现炒快餐餐饮集团有限公司",
+      "company_address": "深圳市南山区南山大道3109号(近汇泉广场) ",
+      "legal_person": "万超",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2021-12-20"
+
+    },
+    "image_path":"shop_img15.png",
+    "is_new": "1",
+    "latitude": "22.553583",
+    "longitude": "113.925318",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "湘大碗现炒快餐",
+    "opening_hours": ["06:00-23:00"],
+    "phone": "15689898989",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.5,
+    "rating_count": 332,
+    "recent_order_num": 1046,
+    "status": 1,
+    "supports": [
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "广东省深圳市南山区科苑南路",
+    "category": "快餐便当/简餐/地方特色/美食/大牌",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "很好吃的一家餐厅，便宜又实惠",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 5,
+    "float_minimum_order_amount":  20,
+    "id": 16,
+    "identification": {
+      "company_name": "深圳小辣椒湘菜馆餐饮集团有限公司",
+      "company_address": "广东省深圳市南山区科苑南路",
+      "legal_person": "喇教",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2021-12-20"
+
+    },
+    "image_path":"shop_img16.png",
+    "is_new": "1",
+    "latitude": "22.521392",
+    "longitude": "113.952817",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "小辣椒湘菜馆",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "15874747474",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.6,
+    "rating_count": 200,
+    "recent_order_num": 1054,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+      {
+        "description": "特价商品1元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "红荔路38号群星广场A座917-918室 ",
+    "category": "快餐便当/简餐/大牌/特色/美食",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 0,
+    "float_minimum_order_amount":  20,
+    "id": 17,
+    "identification": {
+      "company_name": "深圳义泰昌现炒快餐餐饮集团有限公司",
+      "company_address": "红荔路38号群星广场A座917-918室 ",
+      "legal_person": "泰昌",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2023-06-20"
+
+    },
+    "image_path":"shop_img17.png",
+    "is_new": "01",
+    "latitude": "22.554201",
+    "longitude": "114.093798",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "义泰昌现炒快餐",
+    "opening_hours": ["00:00-24:00"],
+    "phone": "15956565656",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.8,
+    "rating_count": 1356,
+    "recent_order_num": 8456,
+    "status": 1,
+    "supports": [
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市福田区莲花山地铁站D口旁",
+    "category": "快餐便当/简餐/大牌/特色/美食/鱼",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 5,
+    "float_minimum_order_amount":  20,
+    "id": 18,
+    "identification": {
+      "company_name": "深圳鱼乐食代酸菜鱼餐饮集团有限公司",
+      "company_address": "深圳市福田区莲花山地铁站D口旁",
+      "legal_person": "戴素安",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2021-12-20"
+
+    },
+    "image_path":"shop_img18.png",
+    "is_new": "1",
+    "latitude": "22.554602",
+    "longitude": "114.070301",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "鱼乐食代酸菜鱼",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "13645784578",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.8,
+    "rating_count": 231,
+    "recent_order_num": 3564,
+    "status": 1,
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "广东省深圳市龙华区龙华街道东环一路与景龙建设路交汇处 ",
+    "category": "快餐便当/简餐/鸡肉/地方小吃/美食/特色/炸鸡炸串",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 5,
+    "float_minimum_order_amount":  20,
+    "id": 19,
+    "identification": {
+      "company_name": "深圳原味脆皮鸡饭餐饮集团有限公司",
+      "company_address": "广东省深圳市龙华区龙华街道东环一路与景龙建设路交汇处 ",
+      "legal_person": "魏璀",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售",
+      "licenses_date": "2021-08-06"
+
+    },
+    "image_path":"shop_img19.png",
+    "is_new": "1",
+    "latitude": "22.657782",
+    "longitude": "114.036138",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "原味脆皮鸡饭",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "13356568978",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.4,
+    "rating_count": 100,
+    "recent_order_num": 847,
+    "status": 1,
+    "supports": [
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市光明区光明荔园路1号 ",
+    "category": "快餐/简餐/米粉面馆/地方小吃/特色/美食/早餐",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 5,
+    "float_minimum_order_amount":  20,
+    "id": 20,
+    "identification": {
+      "company_name": "深圳汁道炸酱面餐饮集团有限公司",
+      "company_address": "深圳市光明区光明荔园路1号 ",
+      "legal_person": "道指",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2021-12-20"
+
+    },
+    "image_path":"shop_img20.png",
+    "is_new": "1",
+    "latitude": "22.769541",
+    "longitude": "113.950104",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "汁道炸酱面",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "13636369696",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.7,
+    "rating_count": 961,
+    "recent_order_num": 3569,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+      {
+        "description": "特价商品1元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "广东省深圳市龙华区建辉路与昌永路交叉口南100米  ",
+    "category": "快餐便当/汉堡披萨/速食/炸鸡炸串",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 20,
+    "float_minimum_order_amount":  50,
+    "id": 21,
+    "identification": {
+      "company_name": "深圳至尊堡餐饮集团有限公司",
+      "company_address": "广东省深圳市龙华区建辉路与昌永路交叉口南100米  ",
+      "legal_person": "尊宝",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "热食类食品制售、自制饮品制售（不含自酿酒）",
+      "licenses_date": "2022-06-06"
+
+    },
+    "image_path":"shop_img21.png",
+    "is_new": "01",
+    "latitude": "22.672981",
+    "longitude": "114.028916",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "至尊堡",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "13823756547",
+    "promotion_info": "欢迎光临，用餐高峰期时请提前下单，谢谢合作！",
+    "rating": 4.8,
+    "rating_count": 1054,
+    "recent_order_num": 10985,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+      {
+        "description": "特价商品1元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "广东省深圳市盐田区梧桐山大道畔山庭苑",
+    "category": "水果/新鲜果蔬",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "【满减与特价共享】全品类精选生鲜，产地直采，严格品控，100%优鲜安心检测，让每个人随时随地享受食物的美好！订单&发票专线：10106066，200元起开，每周统一邮寄。",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 20,
+    "float_minimum_order_amount":  50,
+    "id": 22,
+    "identification": {
+      "company_name": "深圳每日优选水果批发零售有限公司",
+      "company_address": "广东省深圳市盐田区梧桐山大道畔山庭苑",
+      "legal_person": "日游",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "水果",
+      "licenses_date": "2022-06-06"
+
+    },
+    "image_path":"shop_img22.png",
+    "is_new": "1",
+    "latitude": "22.59032",
+    "longitude": "114.248651",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "每日优选",
+    "opening_hours": ["9:00-23:00"],
+    "phone": "13265984284",
+    "promotion_info": "欢迎光临！",
+    "rating": 4.6,
+    "rating_count": 121,
+    "recent_order_num": 1510,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+      {
+        "description": "特价商品1元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市龙岗区植物园路316号",
+    "category": "菜品/果蔬",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "感谢您光临本菜场！本菜场为菜公社品牌指定加盟商，全国3290家菜市场为您服务！保质、保量、保新鲜！菜公社——打造中国人的网上超级菜市场！足不出户让您享受美食，为人民服务！！！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 20,
+    "float_minimum_order_amount":  50,
+    "id": 23,
+    "identification": {
+      "company_name": "深圳菜公社蔬菜批发有限公司",
+      "company_address": "深圳市龙岗区植物园路316号",
+      "legal_person": "蔡工",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "菜品/新鲜蔬菜",
+      "licenses_date": "2022-06-06"
+
+    },
+    "image_path":"shop_img23.png",
+    "is_new": "1",
+    "latitude": "22.722713",
+    "longitude": "114.272707",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "菜公社",
+    "opening_hours": ["8:00-23:00"],
+    "phone": "13823756547",
+    "promotion_info": "九点所有菜品打五折，十点之后所有菜品打2折！",
+    "rating": 4.8,
+    "rating_count": 12,
+    "recent_order_num": 187,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+      {
+        "description": "特价商品1元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市龙岗区桥东街16号永业大厦",
+    "category": "鲜花",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "派送，市区内1-2小时送到，节假日当天送到。宜家花卉祝大家生活快乐，合家欢乐。",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 20,
+    "float_minimum_order_amount":  50,
+    "id": 24,
+    "identification": {
+      "company_name": "深圳宜家花卉管理有限公司",
+      "company_address": "深圳市龙岗区桥东街16号永业大厦",
+      "legal_person": "宜家",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "鲜花",
+      "licenses_date": "2022-06-06"
+
+    },
+    "image_path":"shop_img24.png",
+    "is_new": "1",
+    "latitude": "22.733545",
+    "longitude": "114.290089",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "宜家花卉",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "13823756547",
+    "promotion_info": "派送，市区内1-2小时送到，节假日当天送到。宜家花卉祝大家生活快乐，合家欢乐。",
+    "rating": 5.0,
+    "rating_count": 145,
+    "recent_order_num": 1260,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+      {
+        "description": "特价商品1元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  },
+  {
+    "activities": [],
+    "address": "深圳市龙岗区新布路23号   ",
+    "category": "医药",
+    "delivery_mode": {
+      "color": "57a9ff",
+      "id" : 1,
+      "is_solid": true,
+      "text": "蜂鸟专送"
+    },
+    "order_lead_time": "",
+    "description": "欢迎光临！",
+    "distance": "",
+    "meter": "",
+    "float_delivery_fee" : 20,
+    "float_minimum_order_amount":  50,
+    "id": 25,
+    "identification": {
+      "company_name": "深圳海王星辰健康药房有限公司",
+      "company_address": "深圳市龙岗区新布路23号   ",
+      "legal_person": "海王",
+      "licenses_number": "JY24403040087011",
+      "business_scope": "医药",
+      "licenses_date": "2022-06-06"
+
+    },
+    "image_path":"shop_img25.png",
+    "is_new": "1",
+    "latitude": "22.724991",
+    "longitude": "114.325543",
+    "license": {
+      "business_license_image": "license1.png",
+      "catering_service_license_image": "license2.png"
+    },
+    "name": "海王星辰健康药房",
+    "opening_hours": ["9:00-21:00"],
+    "phone": "13823756547",
+    "promotion_info": "欢迎光临！",
+    "rating": 4.9,
+    "rating_count": 43,
+    "recent_order_num": 160,
+    "status": 1,
+    "supports": [
+      {
+        "description": "满25减15，满40减20，满50减25，满60减30",
+        "icon_color": "E3666A",
+        "icon_name": "减",
+        "name": "减满"
+      },
+      {
+        "description": "特价商品1元起",
+        "icon_color": "E57B47",
+        "icon_name": "特",
+        "name": "特价"
+      },
+      {
+        "description": "折扣商品5折起",
+        "icon_color": "E3666A",
+        "icon_name": "折",
+        "name": "折扣"
+      },
+      {
+        "description": "新用户下单立减17元(不与其它活动同享)",
+        "icon_color": "3AB059",
+        "icon_name": "新",
+        "name": "新人"
+      }
+    ]
+  }
+]
